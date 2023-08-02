@@ -65,6 +65,6 @@
 
 </div>
 
-![Snake animation](https://github.com/lucas-dos-santos-gomes/lucas-dos-santos-gomes/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/lucas-dos-santos-gomes/lucas-dos-santos-gomes/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00C647&section=footer" />
