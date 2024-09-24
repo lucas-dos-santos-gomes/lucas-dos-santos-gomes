@@ -4,7 +4,7 @@
 
 <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00C647&&center=true&Center=truewidth=100%&lines=Meu+nome+é+Lucas;Tenho+18+anos.;Sou+desenvolvedor+Full+Stack!;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00C647&&center=true&Center=truewidth=100%&lines=Meu+nome+é+Lucas;Tenho+20+anos.;Sou+desenvolvedor+Full+Stack!;)](https://git.io/typing-svg)
  
 </div>
 
